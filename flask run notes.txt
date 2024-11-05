@@ -1,0 +1,10 @@
+pip install flask-mysqldb
+pip install Flask
+pip install WTForms
+pip install --upgrade WTForms
+pip install Flask-Script
+pip install passlib
+
+
+PS D:\Gym Management system pro\GymManagementSystem> $env:FLASK_APP = "app.py"
+PS D:\Gym Management system pro\GymManagementSystem> flask run
